@@ -22,7 +22,7 @@ img.setAttribute('src','imagens/jovemmenino.png')
             } else if ( idade < 60) {
                 //homem adulto
         img.setAttribute('src','imagens/homem.png')
-            }else if( idade > 61) {
+            }else if( idade > 61 ) {
                     //idoso 
     img.setAttribute('src.','imagens/idoso.png')
                 
