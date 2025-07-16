@@ -1,1 +1,5 @@
-alert('ola')
+function contar(){
+var ini = document.getElementById('inicio')
+var fim = document.getElementById('fim')
+var passo = document.getElementById('passo') 
+}
