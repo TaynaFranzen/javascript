@@ -1,7 +1,7 @@
 function tabuada() {
     var num = document.getElementById ('txtnum')
     var tab = document.getElementById ('seltab')
-    if (num.ariaValueMax.length == 0){
+    if (num.value.length == 0){
         window.alert('Por favor, digite um numero!')
     } else{
         var n = Number(num.value)
